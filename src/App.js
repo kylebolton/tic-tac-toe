@@ -24,44 +24,8 @@ const MainContainer = styled("div")`
 `;
 
 const GlobalStyle = createGlobalStyle`
-  @-webkit-keyframes bg-scrolling-reverse {
-    100% {
-      background-position: 50px 50px;
-    }
-  }
-
-  @-moz-keyframes bg-scrolling-reverse {
-    100% {
-      background-position: 50px 50px;
-    }
-  }
-
-  @-o-keyframes bg-scrolling-reverse {
-    100% {
-      background-position: 50px 50px;
-    }
-  }
-
   @keyframes bg-scrolling-reverse {
     100% {
-      background-position: 50px 50px;
-    }
-  }
-
-  @-webkit-keyframes bg-scrolling {
-    0% {
-      background-position: 50px 50px;
-    }
-  }
-
-  @-moz-keyframes bg-scrolling {
-    0% {
-      background-position: 50px 50px;
-    }
-  }
-
-  @-o-keyframes bg-scrolling {
-    0% {
       background-position: 50px 50px;
     }
   }
