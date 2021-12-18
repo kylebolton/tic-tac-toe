@@ -41,8 +41,8 @@ const Block = styled('div')`
   padding: 9px;
   border: solid;
   border-width: 0.5px;
-  background: #efefef;
-  border-color: #e1e1e1;
+  background: #e1e1e1;
+  border-color: #d1d1d1;
   width: 5em;
   height: 5em;
 `
